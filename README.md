@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeriTeriLikeYumi
 - 👀 I’m interested in manga/manhwa
-- 🌱 I’m currently learning C# Python PHP
+- 🌱 I’m currently learning C# Python PHP and related framework and library
 - 💞️ I'm looking for opoturnity to working with project
 - 📫 How to reach me https://www.facebook.com/thuan2s
 
